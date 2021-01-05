@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"homepage": "http://tiddle.github.io/forbidden-words",
 	"dependencies": {
-		"axios": "^0.18.0",
+		"axios": "^0.21.1",
 		"react": "^16.3.2",
 		"react-dom": "^16.3.2",
 		"react-scripts": "1.1.4"
